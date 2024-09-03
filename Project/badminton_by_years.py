@@ -656,7 +656,7 @@ def check_by_year():
     elif choice2 == 8:
         exit()
 def exit():
-    print("Thanku for using The Dashboar")
+    print("--------------Thanku for using The Dashboard--------------")
 create_list()
 print('''--------------------Welcome to the Olympic Badminton Medalists Dashboard--------------------''')
 def fun1():
