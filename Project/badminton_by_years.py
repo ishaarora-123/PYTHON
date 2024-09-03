@@ -555,6 +555,12 @@ def check_by_name():
         name = input()
         print('''Please select the type of the game:\n1. Men's Single\n2. Men's Double\n3. Mixed Double\n4. All''')
         choice3 = int(input())
+        list_of_medals = check_medals_by_name(choice2, choice3, name)
+        print(f"Name of the player  ->  {name}")
+        print("Total number medals by the player: ")
+        print(f"  Gold       Silver       Bronze  ")
+        print(f"{list_of_medals[0]:^10} {list_of_medals[1]:^10} {list_of_medals[2]:^14}")
+        fun1()
     elif choice2 == 2:
         print('''Enter the name of the player''')
         i = 1
@@ -564,16 +570,16 @@ def check_by_name():
         name = input()
         print('''Please select the type of the game:\n1. Women's Single\n2. Women's Double\n3. Mixed Double\n4. All''')
         choice3 = int(input())
+        list_of_medals = check_medals_by_name(choice2, choice3, name)
+        print(f"Name of the player  ->  {name}")
+        print("Total number medals by the player: ")
+        print(f"  Gold       Silver       Bronze  ")
+        print(f"{list_of_medals[0]:^10} {list_of_medals[1]:^10} {list_of_medals[2]:^14}")
+        fun1()
     elif choice2 == 3:
         fun1()
     elif choice2 == 4:
         exit()
-    list_of_medals = check_medals_by_name(choice2, choice3, name)
-    print(f"Name of the player  ->  {name}")
-    print("Total number medals by the player: ")
-    print(f"  Gold       Silver       Bronze  ")
-    print(f"{list_of_medals[0]:^10} {list_of_medals[1]:^10} {list_of_medals[2]:^14}")
-    fun1()
 def check_medals_by_year(year, *args):
     print(f"Year -> {year}")
     for choices in args:
