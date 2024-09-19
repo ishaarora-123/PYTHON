@@ -1,296 +1,46 @@
-womens_singles_olympic_medals = [
-    {
-        "year": 1996,
-        "location": "Atlanta",
-        "gold": {"name": "Bang Soo-hyun", "country": "South Korea"},
-        "silver": {"name": "Mia Audina", "country": "Indonesia"},
-        "bronze": {"name": "Susi Susanti", "country": "Indonesia"}
-    },
-    {
-        "year": 2000,
-        "location": "Sydney",
-        "gold": {"name": "Gong Zhichao", "country": "China"},
-        "silver": {"name": "Camilla Martin", "country": "Denmark"},
-        "bronze": {"name": "Ye Zhaoying", "country": "China"}
-    },
-    {
-        "year": 2004,
-        "location": "Athens",
-        "gold": {"name": "Zhang Ning", "country": "China"},
-        "silver": {"name": "Mia Audina", "country": "Netherlands"},
-        "bronze": {"name": "Zhou Mi", "country": "China"}
-    },
-    {
-        "year": 2008,
-        "location": "Beijing",
-        "gold": {"name": "Zhang Ning", "country": "China"},
-        "silver": {"name": "Xie Xingfang", "country": "China"},
-        "bronze": {"name": "Maria Kristin Yulianti", "country": "Indonesia"}
-    },
-    {
-        "year": 2012,
-        "location": "London",
-        "gold": {"name": "Li Xuerui", "country": "China"},
-        "silver": {"name": "Wang Yihan", "country": "China"},
-        "bronze": {"name": "Saina Nehwal", "country": "India"}
-    },
-    {
-        "year": 2016,
-        "location": "Rio de Janeiro",
-        "gold": {"name": "Carolina Marín", "country": "Spain"},
-        "silver": {"name": "P. V. Sindhu", "country": "India"},
-        "bronze": {"name": "Nozomi Okuhara", "country": "Japan"}
-    },
-    {
-        "year": 2020,
-        "location": "Tokyo",
-        "gold": {"name": "Chen Yufei", "country": "China"},
-        "silver": {"name": "Tai Tzu-ying", "country": "Chinese Taipei"},
-        "bronze": {"name": "P. V. Sindhu", "country": "India"}
-    },
-    {
-        "year": 2024,
-        "location": "Paris",
-        "gold": {"name": "An Se-young", "country": "South Korea"},
-        "silver": {"name": "He Bingjiao", "country": "China"},
-        "bronze": {"name": "Gregoria Mariska Tunjung", "country": "Indonesia"}
-    }
-]
-mens_singles_olympic_medals = [
-    {
-        "year": 1996,
-        "location": "Atlanta",
-        "gold": {"name": "Poul-Erik Høyer Larsen", "country": "Denmark"},
-        "silver": {"name": "Dong Jiong", "country": "China"},
-        "bronze": {"name": "Rashid Sidek", "country": "Malaysia"}
-    },
-    {
-        "year": 2000,
-        "location": "Sydney",
-        "gold": {"name": "Ji Xinpeng", "country": "China"},
-        "silver": {"name": "Hendrawan", "country": "Indonesia"},
-        "bronze": {"name": "Xia Xuanze", "country": "China"}
-    },
-    {
-        "year": 2004,
-        "location": "Athens",
-        "gold": {"name": "Taufik Hidayat", "country": "Indonesia"},
-        "silver": {"name": "Shon Seung-mo", "country": "South Korea"},
-        "bronze": {"name": "Sony Dwi Kuncoro", "country": "Indonesia"}
-    },
-    {
-        "year": 2008,
-        "location": "Beijing",
-        "gold": {"name": "Lin Dan", "country": "China"},
-        "silver": {"name": "Lee Chong Wei", "country": "Malaysia"},
-        "bronze": {"name": "Chen Jin", "country": "China"}
-    },
-    {
-        "year": 2012,
-        "location": "London",
-        "gold": {"name": "Lin Dan", "country": "China"},
-        "silver": {"name": "Lee Chong Wei", "country": "Malaysia"},
-        "bronze": {"name": "Chen Long", "country": "China"}
-    },
-    {
-        "year": 2016,
-        "location": "Rio de Janeiro",
-        "gold": {"name": "Chen Long", "country": "China"},
-        "silver": {"name": "Lee Chong Wei", "country": "Malaysia"},
-        "bronze": {"name": "Viktor Axelsen", "country": "Denmark"}
-    },
-    {
-        "year": 2020,
-        "location": "Tokyo",
-        "gold": {"name": "Viktor Axelsen", "country": "Denmark"},
-        "silver": {"name": "Chen Long", "country": "China"},
-        "bronze": {"name": "Anthony Sinisuka Ginting", "country": "Indonesia"}
-    },
-    {
-        "year": 2024,
-        "location": "Paris",
-        "gold": {"name": "Viktor Axelsen", "country": "Denmark"},
-        "silver": {"name": "Kunlavut Vitidsarn", "country": "Thailand"},
-        "bronze": {"name": "Lee Zii Jia", "country": "Malaysia"}
-    }
-]
-mens_doubles_olympic_medals = [
-    {
-        "year": 1996,
-        "location": "Atlanta",
-        "gold": {"name": ["Rexy Mainaky", "Ricky Subagja"], "country": "Indonesia"},
-        "silver": {"name": ["Cheah Soon Kit", "Yap Kim Hock"], "country": "Malaysia"},
-        "bronze": {"name": ["Antonius Ariantho", "Denny Kantono"], "country": "Indonesia"}
-    },
-    {
-        "year": 2000,
-        "location": "Sydney",
-        "gold": {"name": ["Tony Gunawan", "Candra Wijaya"], "country": "Indonesia"},
-        "silver": {"name": ["Lee Dong-soo", "Yoo Yong-sung"], "country": "South Korea"},
-        "bronze": {"name": ["Ha Tae-kwon", "Kim Dong-moon"], "country": "South Korea"}
-    },
-    {
-        "year": 2004,
-        "location": "Athens",
-        "gold": {"name": ["Ha Tae-kwon", "Kim Dong-moon"], "country": "South Korea"},
-        "silver": {"name": ["Lee Dong-soo", "Yoo Yong-sung"], "country": "South Korea"},
-        "bronze": {"name": ["Eng Hian", "Flandy Limpele"], "country": "Indonesia"}
-    },
-    {
-        "year": 2008,
-        "location": "Beijing",
-        "gold": {"name": ["Markis Kido", "Hendra Setiawan"], "country": "Indonesia"},
-        "silver": {"name": ["Cai Yun", "Fu Haifeng"], "country": "China"},
-        "bronze": {"name": ["Hwang Ji-man", "Lee Jae-jin"], "country": "South Korea"}
-    },
-    {
-        "year": 2012,
-        "location": "London",
-        "gold": {"name": ["Cai Yun", "Fu Haifeng"], "country": "China"},
-        "silver": {"name": ["Mathias Boe", "Carsten Mogensen"], "country": "Denmark"},
-        "bronze": {"name": ["Jung Jae-sung", "Lee Yong-dae"], "country": "South Korea"}
-    },
-    {
-        "year": 2016,
-        "location": "Rio de Janeiro",
-        "gold": {"name": ["Zhang Nan", "Fu Haifeng"], "country": "China"},
-        "silver": {"name": ["Goh V Shem", "Tan Wee Kiong"], "country": "Malaysia"},
-        "bronze": {"name": ["Chris Langridge", "Marcus Ellis"], "country": "Great Britain"}
-    },
-    {
-        "year": 2020,
-        "location": "Tokyo",
-        "gold": {"name": ["Lee Yang", "Wang Chi-lin"], "country": "Chinese Taipei"},
-        "silver": {"name": ["Li Junhui", "Liu Yuchen"], "country": "China"},
-        "bronze": {"name": ["Aaron Chia", "Soh Wooi Yik"], "country": "Malaysia"}
-    },
-    {
-        "year": 2024,
-        "location": "Paris",
-        "gold": {"name": ["Lee Yang", "Wang Chi-lin"], "country": "Chinese Taipei"},
-        "silver": {"name": ["Liang Weikeng", "Wang Chang"], "country": "China"},
-        "bronze": {"name": ["Aaron Chia", "Soh Wooi Yik"], "country": "Malaysia"}
-    }
-]
-womens_doubles_olympic_medals = [
-    {
-        "year": 1996,
-        "location": "Atlanta",
-        "gold": {"name": ["Ge Fei", "Gu Jun"], "country": "China"},
-        "silver": {"name": ["Gil Young-ah", "Jang Hye-ock"], "country": "South Korea"},
-        "bronze": {"name": ["Qin Yiyuan", "Tang Yongshu"], "country": "China"}
-    },
-    {
-        "year": 2000,
-        "location": "Sydney",
-        "gold": {"name": ["Ge Fei", "Gu Jun"], "country": "China"},
-        "silver": {"name": ["Huang Nanyan", "Yang Wei"], "country": "China"},
-        "bronze": {"name": ["Gao Ling", "Qin Yiyuan"], "country": "China"}
-    },
-    {
-        "year": 2004,
-        "location": "Athens",
-        "gold": {"name": ["Yang Wei", "Zhang Jiewen"], "country": "China"},
-        "silver": {"name": ["Gao Ling", "Huang Sui"], "country": "China"},
-        "bronze": {"name": ["Lee Kyung-won", "Ra Kyung-min"], "country": "South Korea"}
-    },
-    {
-        "year": 2008,
-        "location": "Beijing",
-        "gold": {"name": ["Du Jing", "Yu Yang"], "country": "China"},
-        "silver": {"name": ["Lee Hyo-jung", "Lee Kyung-won"], "country": "South Korea"},
-        "bronze": {"name": ["Wei Yili", "Zhang Yawen"], "country": "China"}
-    },
-    {
-        "year": 2012,
-        "location": "London",
-        "gold": {"name": ["Tian Qing", "Zhao Yunlei"], "country": "China"},
-        "silver": {"name": ["Mizuki Fujii", "Reika Kakiiwa"], "country": "Japan"},
-        "bronze": {"name": ["Valeria Sorokina", "Nina Vislova"], "country": "Russia"}
-    },
-    {
-        "year": 2016,
-        "location": "Rio de Janeiro",
-        "gold": {"name": ["Misaki Matsutomo", "Ayaka Takahashi"], "country": "Japan"},
-        "silver": {"name": ["Christinna Pedersen", "Kamilla Rytter Juhl"], "country": "Denmark"},
-        "bronze": {"name": ["Jung Kyung-eun", "Shin Seung-chan"], "country": "South Korea"}
-    },
-    {
-        "year": 2020,
-        "location": "Tokyo",
-        "gold": {"name": ["Greysia Polii", "Apriyani Rahayu"], "country": "Indonesia"},
-        "silver": {"name": ["Chen Qingchen", "Jia Yifan"], "country": "China"},
-        "bronze": {"name": ["Kim So-yeong", "Kong Hee-yong"], "country": "South Korea"}
-    },
-    {
-        "year": 2024,
-        "location": "Paris",
-        "gold": {"name": ["Chen Qingchen", "Jia Yifan"], "country": "China"},
-        "silver": {"name": ["Liu Shengshu", "Tan Ning"], "country": "China"},
-        "bronze": {"name": ["Nami Matsuyama", "Chiharu Shida"], "country": "Japan"}
-    }
-]
-mixed_doubles_olympic_medals = [
-    {
-        "year": 1996,
-        "location": "Atlanta",
-        "gold": {"name": ["Kim Dong-moon", "Gil Young-ah"], "country": "South Korea"},
-        "silver": {"name": ["Park Joo-bong", "Ra Kyung-min"], "country": "South Korea"},
-        "bronze": {"name": ["Liu Jianjun", "Sun Man"], "country": "China"}
-    },
-    {
-        "year": 2000,
-        "location": "Sydney",
-        "gold": {"name": ["Zhang Jun", "Gao Ling"], "country": "China"},
-        "silver": {"name": ["Tri Kusharjanto", "Minarti Timur"], "country": "Indonesia"},
-        "bronze": {"name": ["Simon Archer", "Joanne Goode"], "country": "Great Britain"}
-    },
-    {
-        "year": 2004,
-        "location": "Athens",
-        "gold": {"name": ["Zhang Jun", "Gao Ling"], "country": "China"},
-        "silver": {"name": ["Nathan Robertson", "Gail Emms"], "country": "Great Britain"},
-        "bronze": {"name": ["Jens Eriksen", "Mette Schjoldager"], "country": "Denmark"}
-    },
-    {
-        "year": 2008,
-        "location": "Beijing",
-        "gold": {"name": ["Lee Yong-dae", "Lee Hyo-jung"], "country": "South Korea"},
-        "silver": {"name": ["Nova Widianto", "Liliyana Natsir"], "country": "Indonesia"},
-        "bronze": {"name": ["He Hanbin", "Yu Yang"], "country": "China"}
-    },
-    {
-        "year": 2012,
-        "location": "London",
-        "gold": {"name": ["Zhang Nan", "Zhao Yunlei"], "country": "China"},
-        "silver": {"name": ["Xu Chen", "Ma Jin"], "country": "China"},
-        "bronze": {"name": ["Joachim Fischer Nielsen", "Christinna Pedersen"], "country": "Denmark"}
-    },
-    {
-        "year": 2016,
-        "location": "Rio de Janeiro",
-        "gold": {"name": ["Tontowi Ahmad", "Liliyana Natsir"], "country": "Indonesia"},
-        "silver": {"name": ["Chan Peng Soon", "Goh Liu Ying"], "country": "Malaysia"},
-        "bronze": {"name": ["Zhang Nan", "Zhao Yunlei"], "country": "China"}
-    },
-    {
-        "year": 2020,
-        "location": "Tokyo",
-        "gold": {"name": ["Wang Yilyu", "Huang Dongping"], "country": "China"},
-        "silver": {"name": ["Zheng Siwei", "Huang Yaqiong"], "country": "China"},
-        "bronze": {"name": ["Yuta Watanabe", "Arisa Higashino"], "country": "Japan"}
-    },
-    {
-        "year": 2024,
-        "location": "Paris",
-        "gold": {"name": ["Zheng Siwei", "Huang Yaqiong"], "country": "China"},
-        "silver": {"name": ["Kim Won-ho", "Jeong Na-eun"], "country": "South Korea"},
-        "bronze": {"name": ["Yuta Watanabe", "Arisa Higashino"], "country": "Japan"}
-    }
-]
+import csv
 all_the_female_players = set()
 all_the_male_players = set()
 all_countries = set()
+class OlympicMedalData:
+    def read_csv(self,file_path):
+        data = []
+        with open(file_path, 'r') as file:
+            lines = file.readlines()
+            for line in lines[1:]:
+                parts = line.strip().split(',')
+                medal_entry = {
+                "year": int(parts[0]),
+                "location": parts[1],
+                "gold": {"name": parts[2], "country": parts[3]},
+                "silver": {"name": parts[4], "country": parts[5]},
+                "bronze": {"name": parts[6], "country": parts[7]}
+            }
+                data.append(medal_entry)
+        return data
+    def read_csv_doubles(self, file_path):
+        data = []
+        with open(file_path, 'r') as file:
+            lines = file.readlines()
+            for line in lines[1:]:
+                parts = line.split(',')
+                for part in range(len(parts)):
+                    parts[part] = parts[part].replace('"',"")
+                medal_entry = {
+                    "year": int(parts[0]),
+                    "location": parts[1],
+                    "gold": {"name": [parts[2], parts[3]], "country": parts[4]},
+                    "silver": {"name": [parts[5], parts[6]], "country": parts[7]},
+                    "bronze": {"name": [parts[8], parts[9]], "country": parts[10]}
+                    }
+                data.append(medal_entry)
+        return data
+olympic_data = OlympicMedalData()
+womens_singles_olympic_medals = olympic_data.read_csv('E:/MCA/MCA 3rd/python/ca/womens_singles_olympic_medals.csv')
+mens_singles_olympic_medals = olympic_data.read_csv('E:/MCA/MCA 3rd/python/ca/mens_singles_olympic_medals.csv')
+mens_doubles_olympic_medals = olympic_data.read_csv_doubles('E:/MCA/MCA 3rd/python/ca/mens_doubles_olympic_medals.csv')
+womens_doubles_olympic_medals = olympic_data.read_csv_doubles('E:/MCA/MCA 3rd/python/ca/womens_doubles_olympic_medals.csv')
+mixed_doubles_olympic_medals = olympic_data.read_csv_doubles('E:/MCA/MCA 3rd/python/ca/doubles_doubles_olympic_medals.csv')
 def create_list():
     for entry in womens_singles_olympic_medals:
         all_the_female_players.add(entry["gold"]["name"])
