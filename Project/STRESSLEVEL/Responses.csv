@@ -1,0 +1,64 @@
+What is your age group?,Gender,Type of Hobbies you engage in?(Select all that apply),How often do you engage in your hobbies?,"On average, how many hours per week do you spend on your hobbies?","On a scale from 1 to 10, how would you rate your overall mental health?",What is your current stress level?,How does engaging in your hobbies typically affect your mood?,What benefits do you gain from engaging in your hobbies? (Select all that apply),Do you mostly engage in your hobbies alone or with others?
+18–24,Female,"Creative, Social",Several times a week,1 to 3 hours,8,Low,Improves my mood,"Relaxation, Improved focus",With friends or groups
+18–24,Male,"Intellectual, Others",Several times a week,4 to 7 hours,8,Moderate,Improves my mood,"Relaxation, Improved focus",Alone
+18–24,Male,"Physical, Intellectual, Social",Weekly,8+ hours,10,Moderate,Improves my mood,"Relaxation, Improved focus, Reduced stress",Both equally
+18–24,Male,"Creative, Physical, Intellectual ",Daily,8+ hours,3,High,Improves my mood,"Relaxation, Improved focus, Reduced stress, Increased happiness",With friends or groups
+18–24,Female,Physical ,Less frequently,Less than 1 hour,8,Moderate,Improves my mood,"Relaxation, Improved focus, Reduced stress, Increased happiness",Both equally
+18–24,Female,Intellectual ,Daily,Less than 1 hour,9,High,Improves my mood,"Relaxation, Increased happiness",Alone
+18–24,Male,"Creative, Physical, Intellectual ",Several times a week,1 to 3 hours,10,Low,Improves my mood,"Relaxation, Reduced stress, Increased happiness",Both equally
+18–24,Male,"Physical, Intellectual, Social, Others",Less frequently,Less than 1 hour,4,High,Improves my mood,"Relaxation, Improved focus, Reduced stress, Increased happiness",Alone
+18–24,Male,"Intellectual, Social ",Several times a week,4 to 7 hours,8,Moderate,Improves my mood,"Relaxation, Improved focus",Both equally
+18–24,Female,"Creative, Social ",Several times a week,1 to 3 hours,7,Low,Improves my mood,"Relaxation, Reduced stress, Increased happiness",With friends or groups
+18–24,Female,Social ,Weekly,1 to 3 hours,6,Moderate,Improves my mood,Relaxation,Both equally
+18–24,Male,"Physical, Social ",Several times a week,1 to 3 hours,7,Moderate,Improves my mood,"Relaxation, Improved focus, Reduced stress, Increased happiness",Both equally
+14-17,Female,"Creative, Intellectual ",Less frequently,Less than 1 hour,1,High,Improves my mood,"Relaxation, Reduced stress",Both equally
+18–24,Female,"Intellectual, Social ",Several times a week,1 to 3 hours,6,High,No noticeable change,Improved focus,Both equally
+18–24,Male,"Creative, Intellectual ",Several times a week,4 to 7 hours,9,Low,Improves my mood,"Relaxation, Improved focus, Reduced stress, Increased happiness",Alone
+18–24,Female,"Physical, Intellectual ",Several times a week,1 to 3 hours,8,Low,Improves my mood,"Relaxation, Improved focus, Reduced stress",Both equally
+18–24,Female,"Creative, Intellectual ",Several times a week,1 to 3 hours,8,Low,Improves my mood,"Relaxation, Reduced stress, Increased happiness",Alone
+18–24,Male,"Creative, Physical, Intellectual, Social ",Daily,4 to 7 hours,8,Moderate,Improves my mood,"Relaxation, Improved focus",Both equally
+25–34,Male,Creative ,Daily,4 to 7 hours,6,Moderate,Improves my mood,"Relaxation, Increased happiness",Alone
+45–54,Female,Physical ,Daily,Less than 1 hour,7,Moderate,Improves my mood,"Relaxation, Reduced stress, Increased happiness",Alone
+25–34,Female,"Creative, Physical, Intellectual, Social ",Daily,1 to 3 hours,6,Moderate,Improves my mood,"Relaxation, Improved focus, Reduced stress, Increased happiness",Both equally
+18–24,Male,Creative ,Several times a week,1 to 3 hours,6,Moderate,Improves my mood,"Improved focus, Reduced stress, Increased happiness",Alone
+18–24,Female,"Creative, Physical, Intellectual, Social ",Weekly,1 to 3 hours,7,Low,Improves my mood,"Relaxation, Improved focus, Reduced stress",Both equally
+18–24,Female,Physical ,Weekly,1 to 3 hours,6,Moderate,Improves my mood,"Relaxation, Increased happiness",Alone
+35–44,Female,Social ,Several times a week,1 to 3 hours,5,Moderate,Improves my mood,Improved focus,With friends or groups
+14-17,Female,Intellectual ,Weekly,1 to 3 hours,4,Moderate,Improves my mood,"Reduced stress, Increased happiness",With friends or groups
+18–24,Male,Physical ,Several times a week,1 to 3 hours,8,Moderate,Improves my mood,"Relaxation, Improved focus",Alone
+18–24,Female,"Creative, Physical ",Daily,1 to 3 hours,1,High,Improves my mood,"Reduced stress, Increased happiness",Both equally
+35–44,Male,Physical ,Monthly,1 to 3 hours,5,High,Improves my mood,"Relaxation, Increased happiness",Both equally
+18–24,Male,"Creative, Physical, Intellectual, Social ",Several times a week,1 to 3 hours,8,Low,Improves my mood,"Relaxation, Improved focus, Reduced stress, Increased happiness",Both equally
+18–24,Male,"Creative, Intellectual, Social ",Weekly,1 to 3 hours,6,Low,Worsens my mood,Increased happiness,With friends or groups
+14-17,Female,Intellectual ,Weekly,4 to 7 hours,4,Low,Improves my mood,Relaxation,Alone
+18–24,Male,Physical ,Daily,1 to 3 hours,10,Moderate,Improves my mood,Improved focus,Alone
+18–24,Female,Intellectual ,Several times a week,1 to 3 hours,9,Moderate,Improves my mood,"Relaxation, Reduced stress",Both equally
+25–34,Male,"Intellectual, Social ",Weekly,1 to 3 hours,5,Moderate,No noticeable change,"Relaxation, Improved focus, Reduced stress",Alone
+18–24,Female,"Creative, Intellectual ",Monthly,1 to 3 hours,8,Moderate,No noticeable change,Relaxation,Alone
+25–34,Female,"Creative, Physical ",Several times a week,1 to 3 hours,7,Moderate,Improves my mood,Relaxation,With friends or groups
+18–24,Male,Intellectual ,Daily,1 to 3 hours,10,Low,No noticeable change,Relaxation,Alone
+18–24,Male,Intellectual ,Daily,8+ hours,8,Moderate,Improves my mood,Improved focus,Alone
+18–24,Female,"Creative, Physical ",Less frequently,Less than 1 hour,6,High,Improves my mood,"Relaxation, Improved focus, Reduced stress, Increased happiness",Alone
+18–24,Male,"Physical, Intellectual ",Several times a week,1 to 3 hours,4,High,Improves my mood,"Relaxation, Improved focus, Reduced stress, Increased happiness",Both equally
+25–34,Female,"Physical, Intellectual, Social ",Several times a week,1 to 3 hours,8,Moderate,No noticeable change,"Relaxation, Reduced stress, Increased happiness",Alone
+18–24,Female,Social ,Daily,1 to 3 hours,8,Moderate,Improves my mood,"Relaxation, Reduced stress, Increased happiness",With friends or groups
+18–24,Female,Creative ,Less frequently,Less than 1 hour,4,Moderate,Improves my mood,Relaxation,Both equally
+18–24,Male,Physical ,Daily,1 to 3 hours,8,Moderate,Improves my mood,Relaxation,With friends or groups
+18–24,Male,"Intellectual, Social ",Several times a week,4 to 7 hours,7,Moderate,Improves my mood,"Relaxation, Reduced stress",Both equally
+18–24,Male,Physical ,Weekly,1 to 3 hours,8,Low,Improves my mood,"Relaxation, Improved focus, Reduced stress, Increased happiness",With friends or groups
+25–34,Female,"Creative, Intellectual, Social ",Weekly,1 to 3 hours,4,High,Improves my mood,"Relaxation, Improved focus",Alone
+18–24,Male,"Physical, Social ",Several times a week,8+ hours,8,Moderate,Improves my mood,"Relaxation, Improved focus, Reduced stress, Increased happiness",Both equally
+18–24,Female,Physical ,Less frequently,Less than 1 hour,5,Moderate,Improves my mood,Reduced stress,Alone
+18–24,Female,"Creative, Physical, Intellectual, Social ",Several times a week,1 to 3 hours,8,Moderate,Improves my mood,"Relaxation, Improved focus, Reduced stress, Increased happiness",Alone
+18–24,Male,"Physical, Others",Several times a week,8+ hours,10,Low,Improves my mood,"Relaxation, Improved focus, Reduced stress, Increased happiness",With friends or groups
+18–24,Male,"Physical, Intellectual ",Daily,1 to 3 hours,9,Moderate,Improves my mood,"Relaxation, Improved focus, Reduced stress, Increased happiness",Both equally
+18–24,Female,"Creative, Intellectual ",Weekly,1 to 3 hours,5,High,Improves my mood,"Relaxation, Increased happiness",Alone
+18–24,Male,"Physical, Intellectual ",Weekly,1 to 3 hours,8,Low,Improves my mood,"Relaxation, Reduced stress, Increased happiness",With friends or groups
+14-17,Female,"Creative, Intellectual ",Weekly,1 to 3 hours,6,Moderate,Improves my mood,"Relaxation, Improved focus, Reduced stress, Increased happiness",Alone
+18–24,Female,"Creative, Physical, Intellectual, Social ",Several times a week,4 to 7 hours,8,Low,Improves my mood,"Relaxation, Improved focus, Increased happiness",Alone
+18–24,Male,"Intellectual, Others",Daily,1 to 3 hours,9,Low,Improves my mood,"Relaxation, Improved focus, Reduced stress, Increased happiness",Alone
+35–44,Female,"Intellectual, Social ",Several times a week,Less than 1 hour,4,Moderate,Improves my mood,"Relaxation, Increased happiness",Both equally
+18–24,Male,Creative ,Daily,1 to 3 hours,8,Moderate,Improves my mood,"Relaxation, Reduced stress, Increased happiness",Alone
+18–24,Male,"Creative, Physical, Intellectual ",Daily,1 to 3 hours,7,Moderate,Improves my mood,"Relaxation, Reduced stress, Increased happiness",Alone
+18–24,Male,"Physical, Intellectual ",Several times a week,1 to 3 hours,7,Moderate,Improves my mood,"Improved focus, Increased happiness",Both equally
+18–24,Male,Creative ,Several times a week,4 to 7 hours,10,Low,Improves my mood,Relaxation,Alone
