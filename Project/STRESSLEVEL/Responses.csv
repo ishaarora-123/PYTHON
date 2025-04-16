@@ -1,0 +1,64 @@
+Name,AgeGroup,Gender,Hobbies,Frequency,HoursPerWeek,StressLevel,MoodEffect,Benefits,SocialContext,MentalHealth
+Isha,18-24,Female,"Creative, Social",Several times a week,1 to 3 hours,Low,Improves my mood,"Relaxation, Improved focus",With friends or groups,8
+Aditya,18-24,Male,"Intellectual, Others",Several times a week,4 to 7 hours,Moderate,Improves my mood,"Relaxation, Improved focus",Alone,8
+Ayush,18-24,Male,"Physical, Intellectual, Social",Weekly,8+ hours,Moderate,Improves my mood,"Relaxation, Improved focus, Reduced stress",Both equally,10
+Samrat,18-24,Male,"Creative, Physical, Intellectual ",Daily,8+ hours,High,Improves my mood,"Relaxation, Improved focus, Reduced stress, Increased happiness",With friends or groups,3
+Kashish,18-24,Female,Physical ,Less frequently,Less than 1 hour,Moderate,Improves my mood,"Relaxation, Improved focus, Reduced stress, Increased happiness",Both equally,8
+Shruti,18-24,Female,Intellectual ,Daily,Less than 1 hour,High,Improves my mood,"Relaxation, Increased happiness",Alone,9
+Gaurav,18-24,Male,"Creative, Physical, Intellectual ",Several times a week,1 to 3 hours,Low,Improves my mood,"Relaxation, Reduced stress, Increased happiness",Both equally,10
+Kulwinder,18-24,Male,"Physical, Intellectual, Social, Others",Less frequently,Less than 1 hour,High,Improves my mood,"Relaxation, Improved focus, Reduced stress, Increased happiness",Alone,4
+Hitesh,18-24,Male,"Intellectual, Social ",Several times a week,4 to 7 hours,Moderate,Improves my mood,"Relaxation, Improved focus",Both equally,8
+Mahira,18-24,Female,"Creative, Social ",Several times a week,1 to 3 hours,Low,Improves my mood,"Relaxation, Reduced stress, Increased happiness",With friends or groups,7
+Tanisha,18-24,Female,Social ,Weekly,1 to 3 hours,Moderate,Improves my mood,Relaxation,Both equally,6
+Siddharth,18-24,Male,"Physical, Social ",Several times a week,1 to 3 hours,Moderate,Improves my mood,"Relaxation, Improved focus, Reduced stress, Increased happiness",Both equally,7
+Kanika,14-17,Female,"Creative, Intellectual ",Less frequently,Less than 1 hour,High,Improves my mood,"Relaxation, Reduced stress",Both equally,1
+Ruhaani,18-24,Female,"Intellectual, Social ",Several times a week,1 to 3 hours,High,No noticeable change,Improved focus,Both equally,6
+Varun,18-24,Male,"Creative, Intellectual ",Several times a week,4 to 7 hours,Low,Improves my mood,"Relaxation, Improved focus, Reduced stress, Increased happiness",Alone,9
+Srijan,18-24,Female,"Physical, Intellectual ",Several times a week,1 to 3 hours,Low,Improves my mood,"Relaxation, Improved focus, Reduced stress",Both equally,8
+Sana,18-24,Female,"Creative, Intellectual ",Several times a week,1 to 3 hours,Low,Improves my mood,"Relaxation, Reduced stress, Increased happiness",Alone,8
+Rahul,18-24,Male,"Creative, Physical, Intellectual, Social ",Daily,4 to 7 hours,Moderate,Improves my mood,"Relaxation, Improved focus",Both equally,8
+Kanav,25-34,Male,Creative ,Daily,4 to 7 hours,Moderate,Improves my mood,"Relaxation, Increased happiness",Alone,6
+Priyanka,45-54,Female,Physical ,Daily,Less than 1 hour,Moderate,Improves my mood,"Relaxation, Reduced stress, Increased happiness",Alone,7
+Deepika,25-34,Female,"Creative, Physical, Intellectual, Social ",Daily,1 to 3 hours,Moderate,Improves my mood,"Relaxation, Improved focus, Reduced stress, Increased happiness",Both equally,6
+Parth,18-24,Male,Creative ,Several times a week,1 to 3 hours,Moderate,Improves my mood,"Improved focus, Reduced stress, Increased happiness",Alone,6
+Saloni,18-24,Female,"Creative, Physical, Intellectual, Social ",Weekly,1 to 3 hours,Low,Improves my mood,"Relaxation, Improved focus, Reduced stress",Both equally,7
+Saumya,18-24,Female,Physical ,Weekly,1 to 3 hours,Moderate,Improves my mood,"Relaxation, Increased happiness",Alone,6
+Suhana,35-44,Female,Social ,Several times a week,1 to 3 hours,Moderate,Improves my mood,Improved focus,With friends or groups,5
+Bhumika,14-17,Female,Intellectual ,Weekly,1 to 3 hours,Moderate,Improves my mood,"Reduced stress, Increased happiness",With friends or groups,4
+Gurshaan,18-24,Male,Physical ,Several times a week,1 to 3 hours,Moderate,Improves my mood,"Relaxation, Improved focus",Alone,8
+Jasvir,18-24,Female,"Creative, Physical ",Daily,1 to 3 hours,High,Improves my mood,"Reduced stress, Increased happiness",Both equally,1
+Yuvraj,35-44,Male,Physical ,Monthly,1 to 3 hours,High,Improves my mood,"Relaxation, Increased happiness",Both equally,5
+Manas,18-24,Male,"Creative, Physical, Intellectual, Social ",Several times a week,1 to 3 hours,Low,Improves my mood,"Relaxation, Improved focus, Reduced stress, Increased happiness",Both equally,8
+Vipul,18-24,Male,"Creative, Intellectual, Social ",Weekly,1 to 3 hours,Low,Worsens my mood,Increased happiness,With friends or groups,6
+Shaina,14-17,Female,Intellectual ,Weekly,4 to 7 hours,Low,Improves my mood,Relaxation,Alone,4
+Arjun,18-24,Male,Physical ,Daily,1 to 3 hours,Moderate,Improves my mood,Improved focus,Alone,10
+Alisha,18-24,Female,Intellectual ,Several times a week,1 to 3 hours,Moderate,Improves my mood,"Relaxation, Reduced stress",Both equally,9
+Tejas,25-34,Male,"Intellectual, Social ",Weekly,1 to 3 hours,Moderate,No noticeable change,"Relaxation, Improved focus, Reduced stress",Alone,5
+Ridhima,18-24,Female,"Creative, Intellectual ",Monthly,1 to 3 hours,Moderate,No noticeable change,Relaxation,Alone,8
+Sonia,25-34,Female,"Creative, Physical ",Several times a week,1 to 3 hours,Moderate,Improves my mood,Relaxation,With friends or groups,7
+Nipun,18-24,Male,Intellectual ,Daily,1 to 3 hours,Low,No noticeable change,Relaxation,Alone,10
+Samar,18-24,Male,Intellectual ,Daily,8+ hours,Moderate,Improves my mood,Improved focus,Alone,8
+Angel,18-24,Female,"Creative, Physical ",Less frequently,Less than 1 hour,High,Improves my mood,"Relaxation, Improved focus, Reduced stress, Increased happiness",Alone,6
+Dikshaant,18-24,Male,"Physical, Intellectual ",Several times a week,1 to 3 hours,High,Improves my mood,"Relaxation, Improved focus, Reduced stress, Increased happiness",Both equally,4
+Pooja,25-34,Female,"Physical, Intellectual, Social ",Several times a week,1 to 3 hours,Moderate,No noticeable change,"Relaxation, Reduced stress, Increased happiness",Alone,8
+Seerat,18-24,Female,Social ,Daily,1 to 3 hours,Moderate,Improves my mood,"Relaxation, Reduced stress, Increased happiness",With friends or groups,8
+Meghan,18-24,Female,Creative ,Less frequently,Less than 1 hour,Moderate,Improves my mood,Relaxation,Both equally,4
+Adrika,18-24,Male,Physical ,Daily,1 to 3 hours,Moderate,Improves my mood,Relaxation,With friends or groups,8
+Aradhyaa,18-24,Male,"Intellectual, Social ",Several times a week,4 to 7 hours,Moderate,Improves my mood,"Relaxation, Reduced stress",Both equally,7
+Inayat,18-24,Male,Physical ,Weekly,1 to 3 hours,Low,Improves my mood,"Relaxation, Improved focus, Reduced stress, Increased happiness",With friends or groups,8
+Ekta,25-34,Female,"Creative, Intellectual, Social ",Weekly,1 to 3 hours,High,Improves my mood,"Relaxation, Improved focus",Alone,4
+Priyanshu,18-24,Male,"Physical, Social ",Several times a week,8+ hours,Moderate,Improves my mood,"Relaxation, Improved focus, Reduced stress, Increased happiness",Both equally,8
+Sanya,18-24,Female,Physical ,Less frequently,Less than 1 hour,Moderate,Improves my mood,Reduced stress,Alone,5
+Ishita,18-24,Female,"Creative, Physical, Intellectual, Social ",Several times a week,1 to 3 hours,Moderate,Improves my mood,"Relaxation, Improved focus, Reduced stress, Increased happiness",Alone,8
+Krishna,18-24,Male,"Physical, Others",Several times a week,8+ hours,Low,Improves my mood,"Relaxation, Improved focus, Reduced stress, Increased happiness",With friends or groups,10
+Salil,18-24,Male,"Physical, Intellectual ",Daily,1 to 3 hours,Moderate,Improves my mood,"Relaxation, Improved focus, Reduced stress, Increased happiness",Both equally,9
+Gauri,18-24,Female,"Creative, Intellectual ",Weekly,1 to 3 hours,High,Improves my mood,"Relaxation, Increased happiness",Alone,5
+Sahil,18-24,Male,"Physical, Intellectual ",Weekly,1 to 3 hours,Low,Improves my mood,"Relaxation, Reduced stress, Increased happiness",With friends or groups,8
+Mehak,14-17,Female,"Creative, Intellectual ",Weekly,1 to 3 hours,Moderate,Improves my mood,"Relaxation, Improved focus, Reduced stress, Increased happiness",Alone,6
+Aisha,18-24,Female,"Creative, Physical, Intellectual, Social ",Several times a week,4 to 7 hours,Low,Improves my mood,"Relaxation, Improved focus, Increased happiness",Alone,8
+Rohan,18-24,Male,"Intellectual, Others",Daily,1 to 3 hours,Low,Improves my mood,"Relaxation, Improved focus, Reduced stress, Increased happiness",Alone,9
+Shivali,35-44,Female,"Intellectual, Social ",Several times a week,Less than 1 hour,Moderate,Improves my mood,"Relaxation, Increased happiness",Both equally,4
+Ram,18-24,Male,Creative ,Daily,1 to 3 hours,Moderate,Improves my mood,"Relaxation, Reduced stress, Increased happiness",Alone,8
+Karthik,18-24,Male,"Creative, Physical, Intellectual ",Daily,1 to 3 hours,Moderate,Improves my mood,"Relaxation, Reduced stress, Increased happiness",Alone,7
+Syyed,18-24,Male,"Physical, Intellectual ",Several times a week,1 to 3 hours,Moderate,Improves my mood,"Improved focus, Increased happiness",Both equally,7
+Furqaan,18-24,Male,Creative ,Several times a week,4 to 7 hours,Low,Improves my mood,Relaxation,Alone,10
