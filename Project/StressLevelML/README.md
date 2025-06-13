@@ -3,7 +3,7 @@
 👋 About the Project
 
 ~ Ever wondered how your hobbies, social habits, or weekly routine might affect your stress levels?
-~ This project is built to predict your stress level on a scale of 1 to 10 using your personal inputs — like how often you engage in hobbies, whether you prefer being         alone or with friends, and how you rate your own mental well-being.
+~~ This project is built to predict your stress level on a scale of 1 to 10 using your personal inputs — like how often you engage in hobbies, whether you prefer being         alone or with friends, and how you rate your own mental well-being.
 ~ I trained a Decision Tree Regressor model to learn from patterns insuch data, and built a simple app where you can try it out yourself!
 
 🎯 Why I Made This
