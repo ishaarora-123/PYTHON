@@ -31,6 +31,7 @@ Here are the inputs the model looks at:
 | `SocialContext`      | Whether done alone or with others                              |
 | `StressLevel`        | 🎯 **Target value** — model tries to predict this (scale 1–10) |
 
+
 🧠 How the Model Works
 
 Model: Decision Tree Regressor
