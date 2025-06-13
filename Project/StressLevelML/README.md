@@ -8,10 +8,10 @@
 
 🎯 Why I Made This
 
-~ Mental health is deeply personal, yet often influenced by our everyday choices. With this app, I wanted to create something that:
-~ Helps you understand your stress levels better
-~ Encourages reflection on your daily habits
-~ Shows how data and technology can support well-being
+Mental health is deeply personal, yet often influenced by our everyday choices. With this app, I wanted to create something that:
+- Helps you understand your stress levels better
+- Encourages reflection on your daily habits
+- Shows how data and technology can support well-being
 
 🧪 What Goes Into the Prediction?
 
@@ -40,14 +40,14 @@ Why? It’s beginner-friendly, interpretable, and works well for small datasets.
 
 Libraries Used:
 
-~ pandas, numpy for data handling
-~ scikit-learn for modeling
-~ pickle for saving the trained model
-~ streamlit for the web app
+- pandas, numpy for data handling
+- scikit-learn for modeling
+- pickle for saving the trained model
+- streamlit for the web app
 
 🚀 What's Next?
 
-~ Improve predictions by training on more data
-~ Try different models (e.g., Random Forest, XGBoost)
-~ Add explanations for why a certain stress level is predicted
-~ Offer suggestions to lower stress based on the inputs
+- Improve predictions by training on more data
+- Try different models (e.g., Random Forest, XGBoost)
+- Add explanations for why a certain stress level is predicted
+- Offer suggestions to lower stress based on the inputs
